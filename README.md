@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chinmaya56789
 - 👀 I’m interested in Java Enterprise Developement, Python
-- 🌱 I’m currently learning Servlet
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on Java projects
 
 
